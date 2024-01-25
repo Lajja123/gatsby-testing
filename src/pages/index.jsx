@@ -4,7 +4,7 @@ const IndexPage = () => {
   return (
     <main>
       <a href="/page-2">Page 2</a>
-      <a href="/page-2">Page 3</a>
+      <a href="/page-3">Page 3</a>
     </main>
   );
 };

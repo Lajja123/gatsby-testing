@@ -15,6 +15,8 @@ export const Head = () => (
     }
     description={"Page 3 Index....."}
     type={"article"}
-    siteUrl={"http://localhost:8000/page-3"}
+    siteUrl={
+      "https://65b24e87f0cb7b615f69b3f1--transcendent-cactus-ed39e4.netlify.app/page-3"
+    }
   />
 );
