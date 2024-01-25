@@ -11,7 +11,7 @@ export const Head = () => (
   <SEO
     title={"Page 3"}
     image={
-      "https://www.kasandbox.org/programming-images/avatars/old-spice-man.png"
+      "https://www.kasandbox.org/programming-images/avatars/primosaur-sapling.png"
     }
     description={"Page 3 Index....."}
     type={"article"}
